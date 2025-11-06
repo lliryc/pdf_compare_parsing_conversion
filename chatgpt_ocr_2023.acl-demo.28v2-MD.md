@@ -35,8 +35,7 @@ To evaluate CARE in action, we apply the platform in a user study dedicated to s
 review. CARE facilitates the data collection
 and study of inline commentary in NLP, extrinsic evaluation of NLP assistance, and application prototyping. We invite the community to
 explore and build upon the open source implementation of CARE1.
-1
-Introduction
+### 1 Introduction
 Individual and collaborative text work is at the
 core of many human activities, including education,
 business, and research. Yet, reading text is difficult
@@ -48,9 +47,13 @@ GPT-3 (Brown et al., 2020) and ChatGPT (Ouyang
 et al., 2022)2 – the progress in applications of AI to
 reading and collaborative text work is yet to match
 these achievements. The ability of modern generative models to create natural-sounding but factually
+
+
 *These authors contributed equally to this work
-1https://github.com/UKPLab/CARE
-2https://openai.com/blog/chatgpt
+1 https://github.com/UKPLab/CARE
+2 https://openai.com/blog/chatgpt
+
+
 Figure 1: CARE allows users to collaboratively read and
 discuss texts, provides a generic interface for AI-based
 reading assistance, and collects research-ready textual
